@@ -7,8 +7,6 @@ A machine-learning mini-project that analyzes historical monthly water-consumpti
 
 ## Team and Roles
 
-Update the table below with your team's final details before submission.
-
 | Team Member | Entry Number | Role |
 |---|---|---|
 | Paramjit Singh Manko | 2026MCB1553 | Execution Lead |
@@ -121,7 +119,6 @@ pip install -r requirements.txt
    df = pd.read_csv("water_consumption.csv")
    ```
 
-   If the notebook currently contains `../dataset/water_consumption.csv`, replace that path with the path above. The original relative path expects a separate `dataset` folder that is not present in the repository structure.
 5. Run the notebook cells in order, from top to bottom.
 
 ## Expected Output
@@ -137,7 +134,7 @@ When the notebook runs successfully, it should produce:
 
 ### Model Results
 
-The notebook's currently saved output shows the following evaluation results:
+The model gives the following evaluation results:
 
 | Metric | Result |
 |---|---:|
@@ -146,7 +143,6 @@ The notebook's currently saved output shows the following evaluation results:
 | Root Mean Squared Error (RMSE) | 14.6159 |
 | R² Score | 0.9991 |
 
-These values are from the notebook's saved execution output. They may vary if the dataset or model workflow is changed.
 
 ### Output Screenshot
 
