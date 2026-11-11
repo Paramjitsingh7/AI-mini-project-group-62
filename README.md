@@ -157,9 +157,9 @@ These values are from the notebook's saved execution output. They may vary if th
 ## Presentation and Video
 
 - **Project presentation:**
-[presentation](Presentation.pptx)
+[presentation](Presentation.pdf)
 - **Project video:**
-![Video](https://drive.google.com/drive/folders/1zalhIe99a6iQKgt8tJJsZsqnQrnhKPQS)
+[Video](https://drive.google.com/drive/folders/1zalhIe99a6iQKgt8tJJsZsqnQrnhKPQS)
 
 ## AI-Use Disclosure
 
