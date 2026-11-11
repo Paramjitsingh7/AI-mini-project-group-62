@@ -99,7 +99,7 @@ python -m pip install --upgrade pip
 python -m pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ```
 
-The repository's `requirements.txt` should also be populated with these dependencies so that the environment can be installed using:
+OR
 
 ```bash
 pip install -r requirements.txt
@@ -150,10 +150,10 @@ These values are from the notebook's saved execution output. They may vary if th
 
 ### Output Screenshot
 
-Add a screenshot of the notebook's plots or results to the repository (for example, save it as `screenshots/model_output.png`) and then uncomment or update this image link:
-
 ```markdown
-![Model output](screenshots/model_output.png)
+[Graph 1](outputs/graph1.png)
+[Graph 2](outputs/graph2.png)
+[Model Output](outputs/prediction.png)
 ```
 
 ## Presentation and Video
