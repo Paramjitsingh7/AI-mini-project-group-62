@@ -150,11 +150,9 @@ These values are from the notebook's saved execution output. They may vary if th
 
 ### Output Screenshot
 
-```markdown
 ![Graph 1](outputs/graph1.png)
 ![Graph 2](outputs/graph2.png)
 ![Model Output](outputs/prediction.png)
-```
 
 ## Presentation and Video
 
