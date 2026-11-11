@@ -157,7 +157,7 @@ These values are from the notebook's saved execution output. They may vary if th
 ## Presentation and Video
 
 - **Project presentation:** [Add the link to your slides here](ADD_SLIDES_LINK)
-- **Project video:** [Add the link to your video here](ADD_VIDEO_LINK)
+- **Project video:** https://drive.google.com/drive/folders/1zalhIe99a6iQKgt8tJJsZsqnQrnhKPQS
 
 Replace the placeholder links with URLs that your evaluator can access.
 
